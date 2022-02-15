@@ -6,3 +6,4 @@ Repository ini digunakan sebagai pemcarian volunter untuk pembuatan website. Jik
 Berikut Daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Rizkita Doni Asikin, [GitHub](https://github.com/RizkitaDoniasikin).
